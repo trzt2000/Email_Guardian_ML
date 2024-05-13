@@ -1,6 +1,6 @@
 # Email Guardian ML
 
-This simple project is Chrome Extensions focusing on utilizing machine learning for basic detection of phishing links, email spam content, and legitimate files , with the help of the frontend python server that runs the ML models.
+This simple university project is Chrome Extensions focusing on utilizing machine learning for basic detection of phishing links, email spam content, and legitimate files , with the help of the frontend python server that runs the ML models.
 
 
 ## Installation
@@ -41,5 +41,11 @@ Simply run (`project/python_server/start_all.bat`) file to run all the 3 servers
 
 - When opening an email, you can click the extensions popup.
 - By clicking Verification button, the extensions will communicate with the backend, and gives you result.
+
+
+## Contributors :
+- Hatim
+- Ayoub
+- Ismail
 
 
