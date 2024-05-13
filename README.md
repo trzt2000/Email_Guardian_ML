@@ -28,7 +28,7 @@ pip install -r requirements.txt
 6. Extension is loaded and active.
 
 **Running the python server :**
-Simply run (`project/python_server/start_all.bat`) file to run all the 3 servers at once : 
+Simply run (`project/python_server/start_all.bat`) file to run all the 3 servers at once OR run each file individually : 
 - `phishing_detection/main.py` for phishing detection 
 - `Email-Spam-Detection/main.py` for email spam detection 
 - `Malware-detection/main.py` for malware detection 
