@@ -45,7 +45,7 @@ Simply run (`project/python_server/start_all.bat`) file to run all the 3 servers
 
 ## Contributors :
 - Hatim
-- Ayoub
+- [Ayoub](https://github.com/Ayoub-So)
 - Ismail
 
 
